@@ -1,4 +1,3 @@
-#Mehra_Rahul 201722843   October2023 CA-02.py
 
 
 import math
